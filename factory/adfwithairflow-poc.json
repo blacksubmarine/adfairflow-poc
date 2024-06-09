@@ -1,0 +1,9 @@
+{
+	"name": "adfwithairflow-poc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aefe5292-38c5-4582-8ccb-3a872d797496",
+		"tenantId": "baaa7d47-aa85-401a-999f-0d0b89fc4fda"
+	}
+}
